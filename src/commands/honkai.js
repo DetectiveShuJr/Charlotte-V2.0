@@ -4460,7 +4460,7 @@ module.exports = {
                     .setColor('#FBB22F')
                     .setAuthor(message.author.username + ' drew ' + valkyrieName, message.author.displayAvatarURL())
                     .setImage(valkyrieImage)
-                    .setFooter(valkyrieNumber)
+                    .setFooter(`Here\'s your mini Valkyrie stamp, ${valkyrieNumber1}`, valkyrieImage)
 
             message.channel.send(valkyrieEmbed)
         },
