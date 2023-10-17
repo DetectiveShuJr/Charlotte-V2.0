@@ -1,0 +1,29 @@
+{
+    "USER_ID1" : {
+        "GUILD_ID1" : {
+            "userXP": "110000",
+            "userLvl": "30"
+        },
+        "GUILD_ID2" : {
+            "userXP": "299993",
+            "userLvl": "23"
+        }
+    },
+    "USER_ID2" : {
+        "GUILD_ID1-1": {
+            "userXP": "183742934",
+            "userLvl": "56"
+        },
+        "GUILD_ID#1-2": {
+            "userXP": "1120",
+            "userLvl": "2"
+        }
+
+    },
+    "519206163498270740" : {
+        "364854539137843220": {
+            "userXP": 1,
+            "userLvl": 1
+        }
+    }
+}
