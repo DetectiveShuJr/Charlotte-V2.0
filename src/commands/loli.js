@@ -731,9 +731,6 @@ module.exports = {
         .setColor('#cef1ff')
         .setAuthor(`${message.author.username} found ${loliName}`, message.author.displayAvatarURL())
         .setImage(loliImage)
-        .setFooter({
-            text: 'Your mini loli stamp',
-            iconURL: loliImage
-        })
+        .setFooter('Your mini loli stamp' + loliImage)
 
         message.channel.send(loliEmbed);}}}
